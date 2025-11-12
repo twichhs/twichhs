@@ -39,7 +39,7 @@ AI student focused on *ALPR* (Automated License Plate Recognition) — combining
 
 ### 🌐 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardobarrosdev" target="_blank">
+  <a href="https://br.linkedin.com/in/leonardo-barros-07330822a" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="mailto:leonardobarros@example.com">
