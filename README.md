@@ -18,22 +18,6 @@ AI student focused on *ALPR* (Automated License Plate Recognition) — combining
 
 <br clear="left"/>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&theme=tokyonight&layout=compact&custom_title=Top+Languages&langs_count=8"
-  />
-</p>
 
 ---
 
