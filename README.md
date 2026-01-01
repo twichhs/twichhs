@@ -9,7 +9,6 @@ AI student focused on *ALPR* (Automated License Plate Recognition) — combining
 ### 🧰 Tech Stack
 
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="TensorFlow" title="TensorFlow" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="C++" title="C++" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Jupyter" title="Jupyter Notebook" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="SQL" title="SQL" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
