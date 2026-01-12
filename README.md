@@ -2,7 +2,7 @@
 
 **`Machine Learning & Data`**  
 
-AI student focused on *ALPR* (Automated License Plate Recognition) — combining data and vision to build smarter systems.
+IA & Machine Learning na FIAP - Atualmente trabalhando com dados
 
 ---
 
