@@ -58,8 +58,8 @@ Trabalhando com Analytics
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -70,13 +70,6 @@ Trabalhando com Analytics
   <a href="https://br.linkedin.com/in/leonardo-barros-07330822a">
     <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  <a href="mailto:leonardobarros@example.com">
-    <img alt="Email" width="35px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"/>
-  </a>
 </p>
 
 ---
-
-## ⚡ Fun fact
-
-> Curto trabalhar com dados, mas também gosto de ver hardware rodando na prática 😄  
