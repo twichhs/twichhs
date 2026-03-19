@@ -7,7 +7,7 @@ Trabalhando com Analytics
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre
 
 - 📊 Foco em **Analytics e Machine Learning**
 - 🔍 Experiência com **Pandas, SQL e Big Data**
