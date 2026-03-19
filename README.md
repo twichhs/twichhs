@@ -49,7 +49,7 @@ Trabalhando com Analytics
 ### 🛠️ Ferramentas
 <p>
   <img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <img alt="DataSpell" width="40px" src="https://resources.jetbrains.com/storage/products/dataspell/img/meta/dataspell_logo_300x300.png"/>
+  <img alt="DataSpell" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg""/>
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
