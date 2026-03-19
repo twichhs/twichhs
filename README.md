@@ -2,7 +2,7 @@
 
 **`Machine Learning & Data`**  
 
-IA & Machine Learning na FIAP - Atualmente trabalhando com dados
+IA & Machine Learning na FIAP - Trabalhando com Analytics com Pandas e SQL
 
 ---
 
