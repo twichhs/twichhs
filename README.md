@@ -1,52 +1,30 @@
-# 👨‍💻 Leonardo Barros  
-
-**Machine Learning • Data • Embedded Systems**  
-
-Estudante de IA & Machine Learning na FIAP  
-Trabalhando com Analytics
-
----
-
-## 🧠 Sobre
-
-- 📊 Foco em **Analytics e Machine Learning**
-- 🔍 Experiência com **Pandas, SQL e Big Data**
-- 🤖 Projetos com **Pandas, StickLearn , ESP32 e Sensores**
-- ☁️ Explorando **Cloud (AWS) e Estatística**
-
----
-
 ## 🚀 Tech Stack
 
-### 🧩 Linguagens
+### Linguagens
 <p>
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </p>
 
-### 🗄️ Dados & Banco
+### Dados & Banco
 <p>
   <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 </p>
 
-### 🤖 Data Science
-<p>
-  <img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-</p>
 
-### ⚙️ Embedded & IoT
+### Embedded
 <p>
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 </p>
 
-### ☁️ Cloud
+### Cloud
 <p>
   <img alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </p>
 
-### 🛠️ Ferramentas
+### Ferramentas
 <p>
   <img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img alt="DataSpell" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg""/>
@@ -55,7 +33,7 @@ Trabalhando com Analytics
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=tokyonight"/>
@@ -64,7 +42,7 @@ Trabalhando com Analytics
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <p>
   <a href="https://br.linkedin.com/in/leonardo-barros-07330822a">
