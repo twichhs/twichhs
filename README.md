@@ -1,10 +1,10 @@
-## GitHub Stats
+## 🚀 Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact&theme=tokyonight"/>
-</p>
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=twichhs&theme=radical)
 
 ### Linguagens
 <p>
