@@ -24,8 +24,6 @@ Diariamente **Python, APIs e Banco de Dados**
 
 ---
 
-## 🚀 Tech Stack
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +39,6 @@ Diariamente **Python, APIs e Banco de Dados**
 
 ---
 
-## 📊 Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d"/>
@@ -54,7 +51,6 @@ Diariamente **Python, APIs e Banco de Dados**
 
 ---
 
-## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=twichhs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
