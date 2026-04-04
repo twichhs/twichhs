@@ -1,4 +1,10 @@
-## 🚀 Tech Stack
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact&theme=tokyonight"/>
+</p>
+---
 
 ### Linguagens
 <p>
@@ -31,14 +37,6 @@
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
