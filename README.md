@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Leonardo Barros</h1>
-<p align="center">Data • Analytics • Cybersecurity</p>
+<p align="center"> Analytics • Software • Cybersecurity</p>
 
 ---
 
