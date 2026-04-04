@@ -16,9 +16,9 @@
 <!-- ABOUT -->
 <div align="center">
 
-💻 Focado em **Analytics & Dados**  
-🔐 Interesse em **Cybersecurity**  
-📊 Trabalhando com **Python, APIs e Banco de Dados**
+Trabalhando com **Analytics & Dados**  
+Desenvolvendo um Iniciação de **Cybersecurity**  
+Diariamente **Python, APIs e Banco de Dados**
 
 </div>
 
