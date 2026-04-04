@@ -1,68 +1,61 @@
-<h1 align="center">🚀 Leonardo Barros</h1>
-<p align="center">
-  Data • Analytics • Software
-</p>
+<!-- HEADER -->
+<h1 align="center">Leonardo Barros</h1>
+<p align="center">Data • Analytics • Cybersecurity</p>
+
+---
+
+<!-- SOCIAL -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-barros-07330822a)
+
+</div>
+
+---
+
+<!-- ABOUT -->
+<div align="center">
+
+💻 Focado em **Analytics & Dados**  
+🔐 Interesse em **Cybersecurity**  
+📊 Trabalhando com **Python, APIs e Banco de Dados**
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact&theme=radical&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=twichhs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twichhs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=30363d"/>
 </p>
 
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=twichhs&theme=radical&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=twichhs&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </p>
 
 ---
 
-## 🧠 Tech Stack
-
-### 👨‍💻 Linguagens
-<p align="center">
-  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-</p>
-
-### 📊 Dados & Banco
-<p align="center">
-  <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-</p>
-
-### 🔌 Embedded
-<p align="center">
-  <img alt="Arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-</p>
-
-### ☁️ Cloud
-<p align="center">
-  <img alt="AWS" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-</p>
-
-### 🛠️ Ferramentas
-<p align="center">
-  <img alt="Postman" width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <img alt="JetBrains" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
-  <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</p>
-
----
-
-## 🌐 Conecte-se comigo
+## 📈 Activity
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/leonardo-barros-07330822a">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=twichhs&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
-
----
-
-## ⚡ Sobre mim
-- Focado em **Analytics e Dados**
-- Gosto de Linux
-- Minha principal linguagem é Python
