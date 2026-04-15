@@ -42,8 +42,4 @@ Foco diário em **Python, APIs e Banco de Dados**
 ---
 
 <!-- GRAPH -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=twichhs&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
+![Demo](jjk-jujutsu-kaisen.gif)  ![Demo](mahoraga.gif)
