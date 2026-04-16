@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Leonardo Barros</h1>
-<p align="center">Analytics • Software • Cybersecurity</p>
+<p align="center">Analytics • Machine Learning • Cybersecurity</p>
 
 ---
 
@@ -42,4 +42,12 @@ Foco diário em **Python, APIs e Banco de Dados**
 ---
 
 <!-- GRAPH -->
-![Demo](jjk-jujutsu-kaisen.gif)  ![Demo](mahoraga.gif)
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="jjk-jujutsu-kaisen.gif" width="300"/>
+  <img src="mahoraga.gif" width="300"/>
+</div> -->
+
+<div align="center">
+  <img src="jjk-jujutsu-kaisen.gif" width="45%"/>
+  <img src="mahoraga.gif" width="45%"/>
+</div>
