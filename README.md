@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Leonardo Barros</h1>
-<p align="center">Analytics • Machine Learning • Cybersecurity</p>
+<p align="center">Analytics • Machine Learning • Backend</p>
 
 ---
 
@@ -16,9 +16,8 @@
 <!-- ABOUT -->
 <div align="center">
 
-Trabalhando com **Analytics & Dados**  
-Iniciando em **Cybersecurity**  
-Foco diário em **Python, APIs e Banco de Dados**
+Estagiário de Analytics 
+IA - FIAP
 
 </div>
 
