@@ -16,8 +16,10 @@
 <!-- ABOUT -->
 <div align="center">
 
-Estagiário de Analytics 
-IA - FIAP
+Estagiário de Analytics  
+Inteligência Artifial - FIAP  
+
+
 
 </div>
 
