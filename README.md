@@ -8,6 +8,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-barros-07330822a)
+[![LinkedIn](https://img.shields.io/badge/Youtube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@twich6931)
 
 </div>
 
