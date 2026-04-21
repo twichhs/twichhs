@@ -17,7 +17,7 @@
 <div align="center">
 
 Estagiário de Analytics  
-Inteligência Artifial - FIAP  
+Inteligência Artificial - FIAP  
 
 
 
