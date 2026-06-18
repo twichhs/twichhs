@@ -4,7 +4,7 @@
   <strong>Jr. Analytics Consultant</strong> &nbsp;•&nbsp; Big Data
 </p>
 <p align="center">
-  Analytics • Feature Engineering • Machine Learning • Python
+  Analytics • Data Engineering • Machine Learning • Python
 </p>
 
 <p align="center">
