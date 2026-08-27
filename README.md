@@ -39,23 +39,35 @@ Artificial Intelligence | FIAP
 
 ### What I Do
 
-</div>
-
-<div align="center">
-
-My core focus is **feature engineering** | designing and testing the signals that power models,  
+My core focus is **feature engineering**: designing and testing the signals that power models,  
 with a strong bias toward **fraud detection** and **auto insurance pricing**.
 
 </div>
 
 <br>
 
-<div align="center">
-
-`Sanity Checks` &nbsp;•&nbsp; `Data Cleaning` &nbsp;•&nbsp; `Reporting`  
-`Feature Engineering & Testing` &nbsp;•&nbsp; `Fraud Models` &nbsp;•&nbsp; `Auto Pricing`
-
-</div>
+<table align="center">
+<tr>
+<th>Área</th>
+<th>Atuação</th>
+</tr>
+<tr>
+<td><strong>Feature Engineering</strong></td>
+<td>Desenho e teste de variáveis preditivas para modelos de risco</td>
+</tr>
+<tr>
+<td><strong>Fraud Models</strong></td>
+<td>Modelagem de classificação para detecção de fraude</td>
+</tr>
+<tr>
+<td><strong>Auto Pricing</strong></td>
+<td>Modelos de risco aplicados à precificação de seguro auto</td>
+</tr>
+<tr>
+<td><strong>Data Quality</strong></td>
+<td>Sanity checks, limpeza de dados e reporting</td>
+</tr>
+</table>
 
 <p align="center">
   <em>"Plans fail for lack of counsel, but with many advisers they succeed."</em><br>
@@ -64,16 +76,53 @@ with a strong bias toward **fraud detection** and **auto insurance pricing**.
 
 ---
 
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+### Featured Projects
+
+**[twichhs/portifolio_modelagem →](https://github.com/twichhs/portifolio_modelagem)**
+
+</div>
+
+<table align="center">
+<tr>
+<th>Projeto</th>
+<th>Problema</th>
+<th>Resultado</th>
+</tr>
+<tr>
+<td><a href="https://github.com/twichhs/portifolio_modelagem/tree/main/credit_fraud_detection">Detecção de Fraude em Cartão de Crédito</a></td>
+<td>Classificação binária, classes desbalanceadas (1,7% fraude)</td>
+<td>PR-AUC 0.35</td>
+</tr>
+<tr>
+<td><a href="https://github.com/twichhs/portifolio_modelagem/tree/main/heart_desease_ui">Risco de Doença Cardiovascular</a></td>
+<td>Classificação binária, com deploy em Streamlit</td>
+<td>F1 0.84 na classe de risco</td>
+</tr>
+</table>
+
+---
+
 <!-- TECH STACK -->
 <div align="center">
 
 ### Stack
 
+**Linguagens & Dados**
+
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Bancos de Dados**
+
 ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Cloud & Ferramentas**
+
 ![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=white)
@@ -81,6 +130,7 @@ with a strong bias toward **fraud detection** and **auto insurance pricing**.
 </div>
 
 ---
+
 
 <!-- HOBBY -->
 <div align="center">
