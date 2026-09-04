@@ -112,20 +112,24 @@ with a strong bias toward **fraud detection** and **auto insurance pricing**.
 
 **Linguagens & Dados**
 
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=green)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=python&logoColor=whiteblue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=python&logoColor=whiteblue)
 
 **Bancos de Dados**
 
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=witheblue)
+![PostGreSQL](https://img.shields.io/badge/PostGreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=witheblue)
 
 **Cloud & Ferramentas**
 
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-0A0A0A?style=for-the-badge&logo=googlecolab&logoColor=orange)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=purple)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=orange)
 
 </div>
 
