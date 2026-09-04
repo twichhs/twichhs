@@ -9,18 +9,9 @@
 
 <p align="center">
   <em>"Commit your work to the Lord, and your plans will be established."</em><br>
-  <sub>— Proverbs 16:3</sub>
+  <sub>Proverbs 16:3</sub>
 </p>
 
----
-
-<!-- SOCIAL -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-barros-07330822a)
-[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@twich6931)
-
-</div>
 
 ---
 
