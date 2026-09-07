@@ -1,8 +1,8 @@
 <h1 align="center">Leonardo Barros</h1>
-<p align="center">Jr. Analytics Consultant • Big Data & IA (FIAP)</p>
+<p align="center">Jr. Analytics Consultant • Trabalhando em uma Big Data & Cursando IA (FIAP)</p>
 
 <p align="center">
-  <em>"Commit your work to the Lord, and your plans will be established." — Proverbs 16:3</em>
+  <em>"Commit your work to the Lord, and your plans will be established." > Proverbs 16:3</em>
 </p>
 
 ---
@@ -14,8 +14,8 @@ Foco em **feature engineering**: desenho e teste de variáveis preditivas, princ
 | Área | Atuação |
 |---|---|
 | Feature Engineering | Desenho e teste de variáveis para modelos de risco |
-| Fraud Models | Classificação para detecção de fraude |
-| Auto Pricing | Modelos de risco para precificação de seguro auto |
+| Fraud Tree Models | Classificação em árvore de risco para detecção de fraude |
+| Auto Pricing | Features de risco para precificação de seguro auto |
 | Data Quality | Sanity checks, limpeza de dados e reporting |
 
 ---
@@ -33,11 +33,11 @@ Foco em **feature engineering**: desenho e teste de variáveis preditivas, princ
 
 ### Fora do trabalho
 
-Mexendo com **ESP32** e eletrônica embarcada — mesma lógica do dia a dia: medir, testar, iterar.
+Mexendo com **ESP32** e eletrônica embarcada, mesma lógica do dia a dia: medir, testar, iterar.
 
 ---
 
 <p align="center">
-  <em>"Whatever you do, work at it with all your heart, as working for the Lord." — Colossians 3:23</em>
+  <em>"Whatever you do, work at it with all your heart, as working for the Lord." > Colossians 3:23</em>
 </p>
 <p align="center"><sub>Soli Deo Gloria</sub></p>
