@@ -49,10 +49,11 @@ leonardo = {
 ## <img src="https://api.iconify.design/tabler/stack-2.svg?color=%23F7A8C8" height="26" align="top"/> Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,mysql,sklearn,linux,postman,git,github,vscode&theme=dark&perline=10" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,linux,postman,github,vscode&theme=dark&perline=7" alt="stack"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Estat%C3%ADstica-F7A8C8?style=for-the-badge" alt="Estatística">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
